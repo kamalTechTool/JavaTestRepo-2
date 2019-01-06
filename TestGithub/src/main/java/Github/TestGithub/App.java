@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Testing Github Program" );
         System.out.println( "Testing changes" );
+		System.out.println( "Testing changes via Windows commmand" );
     }
 }
